@@ -1,6 +1,6 @@
 # Octopress Themes - Lavendar Theme
 
-![Octopress Lavendar Theme thumbnail](https://s3.amazonaws.com/static.liangzan.net/lavendar-thumbnail.png)
+![Octopress Lavendar Theme thumbnail](https://s3.amazonaws.com/static.octopressthemes.com/thumbnails/lavendar-thumbnail.png)
 
 Lavendar theme is a theme hand made for Octopress blogging framework. It is compatible with Octopress 2. Updates will be provided from this repository.
 
